@@ -1,0 +1,35 @@
+"lang"
+{
+
+	"Language"		"English"
+	"Tokens"
+	{		
+		"addon_game_name"																	"Universium Arena"
+		"BanPhase"																			"Ban"
+		"HeroPickPhase"																		"HeroPick"
+		"StrategyPhase"																		"Strategy"
+		
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua_Description"						"You renegate 10 percent of your hp and mana per second"
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua" 									"Fountain Healing"
+		"DOTA_Tooltip_modifier_fountain_damage_aura_effect_lua"								"Fountain Corruption"
+		"DOTA_Tooltip_modifier_fountain_damage_aura_effect_lua_Description"					"You lose 20% hp and mana per second"
+		
+		"npc_dota_hero_silencer" 															"The Doctor"
+		"DOTA_Tooltip_ability_doctor_sonic_screwdriver" 									"Sonic Screwdriver"
+		"DOTA_Tooltip_ability_doctor_sonic_screwdriver_Description" 						"Doctor's Sonic allows him to interfere with the work of enemy items, prevents them from using them. Additionaly, applies intellect-dependent damage to enemy"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_base_damage"						"BASE DAMAGE:"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_int_damage"							"INTELLIGENCE MULTIPLIER:"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_duration" 							"MUTE DURATION:"
+		
+		"DOTA_Tooltip_ability_ability_timelord_mind"										"Timelord's mind"
+		"DOTA_Tooltip_ability_ability_timelord_mind_Description"							"The Doctor, as one of the representatives of the Time Lords, has the knowledge of many generations. For each spell cast within a %radius% radius, the Doctor temporarily gains additional intelligence and some xp. If the enemy dies in this radius, the Doctor will receive permanent intelligence."
+		"DOTA_Tooltip_ability_ability_timelord_mind_temp_int"								"TEMPORARY INTELLIGENCE:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_perm_int"								"PERMANENT INTELLIGENCE:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_duration"								"DURATION:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_xp_boost"								"XP BOOST:"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_permanent_stack"					"Permanent Intelligence Stacks"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_permanent_stack_Description"		"Gained permanent intelligence stacks"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura"									"Temporary Intelligence Stacks"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_Description"						"Gained temporal intelligence stacks"
+	}
+}

@@ -1,0 +1,19 @@
+// Dota Heroes File
+// NOTE: This is not for creating new heroes, this is for taking a currently existing hero as a template and overriding
+// the specified key-value combinations.  Use override_hero <hero_to_override> for this.
+"DOTAHeroes"
+{
+	
+	"npc_dota_hero_silencer"
+	{
+		"override_hero"				"npc_dota_hero_silencer"
+		"Ability2"					"ability_sonic_screwdriver"
+		"Ability3"					"ability_timelord_mind"
+		"Model"		"models/hero_models/doctor/doctor.vmdl"
+		
+		"ItemSlots"
+		{
+		
+		}
+	}
+}

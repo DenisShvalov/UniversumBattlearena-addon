@@ -1,0 +1,48 @@
+""
+{
+	"ability_timelord_mind"
+	{
+		"BaseClass"						"ability_lua"
+		"ScriptFile"					"heroes/doctor/timelord_mind"
+		"AbilityTextureName"			"heroes/doctor/timelord_mind"
+		"FightRecapLevel"				"1"
+		"MaxLevel"						"4"
+
+		"AbilityType"					"DOTA_ABILITY_TYPE_BASIC"
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_NO"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+
+		"AbilitySpecial"
+		{
+		
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"temp_int"				"3"
+			}
+			
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"perm_int"				"4"
+			}
+			
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"duration"				"20 40 60 80"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"xp_boost"				"20 30 40 50"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"radius"				"1200"
+			}
+		}
+	}
+}

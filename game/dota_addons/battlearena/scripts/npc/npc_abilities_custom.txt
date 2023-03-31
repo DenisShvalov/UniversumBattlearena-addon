@@ -1,0 +1,2 @@
+#base "heroes/doctor/sonic_screwdriver.txt"
+#base "heroes/doctor/timelord_mind.txt"

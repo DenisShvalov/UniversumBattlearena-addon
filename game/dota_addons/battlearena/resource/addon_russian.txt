@@ -1,0 +1,35 @@
+"lang"
+{
+	"Language"		"russian"
+	"Tokens"
+	{
+		"addon_game_name"																	"Межвселенская арена"
+		
+		"BanPhase"																			"Стадия бана"
+		"HeroPickPhase"																		"Выбери героя"
+		"StrategyPhase"																		"Стратегическое время"
+		
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua_Description"						"Вы восстанавливаете 10 процентов здоровья и маны"
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua" 									"Лечение на фонтане"
+		"DOTA_Tooltip_modifier_fountain_damage_aura_effect_lua"								"Гниение на фонтане"
+		"DOTA_Tooltip_modifier_fountain_damage_aura_effect_lua_Description"					"Вы теряете 20% хп и маны в секунду"
+		
+		"npc_dota_hero_silencer" 															"The Doctor"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver" 									"Sonic Screwdriver"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_Description" 						"Звуковая отвертка Доктора позволяет ему помешать работе артефактов врагов, запрещая им использовать предметы, при этом нанося урон зависящий от интеллекта самого Доктора"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_base_damage"						"БАЗОВЫЙ УРОН:"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_int_damage"							"МНОЖИТЕЛЬ ИНТЕЛЛЕКТА:"
+		"DOTA_Tooltip_ability_ability_sonic_screwdriver_duration" 							"ДЛИТЕЛЬНОСТЬ ЗАГЛУШЕНИЯ:"
+		
+		"DOTA_Tooltip_ability_ability_timelord_mind"										"Timelord's mind"
+		"DOTA_Tooltip_ability_ability_timelord_mind_Description"							"Доктор, как представителей Повелителей времени, обладает знаниями многих поколений. За каждое произнесенное вражескими героями заклинание в радиусе %radius% он получает временный интеллект и немного опыта. Если в этом радиусе погибнет враг, то получит стак постоянного интеллекта."
+		"DOTA_Tooltip_ability_ability_timelord_mind_temp_int"								"ВРЕМЕННЫЙ ИНТЕЛЛЕКТ:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_perm_int"								"ПОСТОЯННЫЙ ИНТЕЛЛЕКТ:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_duration"								"ДЛИТЕЛЬНОСТЬ:"
+		"DOTA_Tooltip_ability_ability_timelord_mind_xp_boost"								"ПРИРОСТ ОПЫТА:"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_permanent_stack"					"Постоянный стаки интеллекта"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_permanent_stack_Description"		"Даются за смерть противников"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura"									"Временные стаки интеллекта"
+		"DOTA_Tooltip_modifier_ability_timelord_mind_aura_Description"						"Даются за произнесенные рядом заклинания"
+	}
+}
